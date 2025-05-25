@@ -1,0 +1,39 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# PDF reports
+*.pdf
+
+# Database and SQL dumps
+*.bak
+*.sql
+
+# Image folders (optional, if images not needed in repo)
+# /image/
+
+# Fonts folder (if you store TTFs locally)
+fonts/
+
+# System-specific files
+Thumbs.db
+.DS_Store
